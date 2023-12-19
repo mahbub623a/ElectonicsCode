@@ -13,7 +13,7 @@ char pass[] = "12345678";  // Wifi password
 int sensorPin = D1; // Connect the sensor
 int buzzerPin = D2;  //  Connect the buzzer
 int redLightPin = D3;  // Connect the red light
-int greenLightPin = D4;  // Connect the green light
+int greenLightPin = D4;  // Connect the green Light
 
 BlynkTimer timer;
 

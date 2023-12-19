@@ -19,7 +19,7 @@ void setup() {
   mfrc522.PCD_Init();
   lockServo.attach(6);  // Connect the servo signal pin to digital pin 6
   
-  lockServo.write(0);  // Initially door will be locked
+  lockServo.write(0);  // Initially door will be Locked
 }
 
 void loop() {

@@ -15,7 +15,7 @@ void setup() {
   // Initialize Serial Monitor
   Serial.begin(9600);
 
-  // Initialize DHT sensor
+  // Initialize DHT Sensor
   dht.begin();
 
   // Initialize LCD
