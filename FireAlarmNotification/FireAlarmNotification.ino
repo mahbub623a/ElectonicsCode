@@ -7,8 +7,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 char auth[] = "nQ4pqRgl81IlcEi9FdiKjhYbxDa0Phxi";
-char ssid[] = "UIU_Boyz";  // Wifi name
-char pass[] = "mhs@54321";  // Wifi password
+char ssid[] = "UIU-STUDENT";  // Wifi name
+char pass[] = "12345678";  // Wifi password
 
 int sensorPin = D1; // Connect the sensor
 int buzzerPin = D2;  //  Connect the buzzer
